@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>STICKERS</title>
+<title>stickers</title>
 </head>
 <body>
 <h1>Welcome to STICKERS</h1>
